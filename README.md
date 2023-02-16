@@ -68,11 +68,11 @@ Join our [Discord Server](https://discord.gg/FUawEyXH5K) if you require help wit
 
 ## Donations
 
-Donations to the project are greatly appreaciated!
+Donations to the project are greatly appreciated!
 
-By donating you are supporting the Developers and giving them motivation to continue developing the plugin as well as gaining a few new **Previliges**.
+By donating you are supporting the Developers and giving them motivation to continue developing the plugin as well as gaining a few new **Privileges**.
 
-### Previliges/Perks
+### Privileges/Perks
 
 
 * **Early Access** to plugins & updates
