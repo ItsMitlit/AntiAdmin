@@ -62,3 +62,18 @@ Join our [Discord Server](https://discord.gg/FUawEyXH5K) if you require help wit
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+
+## Donations
+
+Donations to the project are greatly appreaciated!
+
+By donating you are supporting the Developers and giving them motivation to continue developing the plugin as well as gaining a few new **Previliges**.
+
+### Previliges/Perks
+
+
+* **Early Access** to plugins & updates
+* More **DIRECT** suggestions
+* A **SPECIAL** role in the [Discord Server](https://discord.gg/FUawEyXH5K)
+* And **MORE** to come
+<p><a href="https://ko-fi.com/mitlit"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mit;it" /></a></p><br><br>
