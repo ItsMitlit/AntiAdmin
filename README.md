@@ -3,6 +3,9 @@
 
 #### AntiAdmin is a Bukkit plugin designed to prevent cheating with admin commands on Minecraft servers. When an admin attempts to use an "admin" command, the plugin sends a notification to a specified Discord channel via a webhook. In addition, the plugin broadcasts a message in chat to alert other players of the attempt.
 
+## Note
+
+The source code for this plugin is **NOT** public, So please don't ask for/about it.
 
 ## Installation
 
