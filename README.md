@@ -78,6 +78,6 @@ By donating you are supporting the Developers and giving them motivation to cont
 * **Early Access** to plugins & updates
 * More **DIRECT** suggestions
 * A **SPECIAL** role in the [Discord Server](https://discord.gg/FUawEyXH5K)
-* A **MENTION** in the plugin credits
+* A **MENTION** in the plugin credits (Once per donation)
 * And **MORE** to come
 <p><a href="https://ko-fi.com/mitlit"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mit;it" /></a></p><br><br>
