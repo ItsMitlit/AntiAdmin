@@ -37,7 +37,7 @@ How to configure the plugin
 
 #### No messages are appearing on my Discord Server
 
-This is most likely caused by you not configuring the Discord Webhook, Instructions on how to do this can be found in the [Configuration](https://github.com/ThatAlbaPerson/antiadmin#Configuration) guide.
+This is most likely caused by you not configuring the Discord Webhook, Instructions on how to do this can be found in the [Configuration](https://github.com/ThatAlbaPerson/AntiAdmin/wiki/Configuration) guide.
 
 #### The /gamemode command won't work for me
 
