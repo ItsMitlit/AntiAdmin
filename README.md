@@ -44,11 +44,11 @@ This is most likely caused by you not configuring the Discord Webhook, Instructi
 
 #### The /gamemode command won't work for me
 
-In version 1.0.0 the /gamemode command is disabled, In order to change your gamemode you would need to do it through the server console.
+In version 1.0.0 the /gamemode command is disabled, This is fixed in versions 1.0.1 and up!
 
 #### Colour codes aren't working.
 
-Colour codes are going to be added in a future version, For now you are just going to have to make do with plain old white.
+If you are experiencing this issue you are most likely using Version 1.0.0, If you want to use color codes please use version 1.0.1 and above.
 
 
 ## Support
