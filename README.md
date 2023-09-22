@@ -5,14 +5,13 @@
 
 ## Note
 
-The source code for this plugin is **NOT** public, So please don't ask for/about it.
-
+As of now only **Beta & Alpha** versions will be available on the Github page. This means that if you wish to download the latest release you must do so from our **[Modrinth](https://modrinth.com/plugin/anti-admin) or [Spigot](https://www.spigotmc.org/resources/anti-admin.109941/)**
 ## Installation
 
 Install AntiAdmin on your Minecraft Server
 
 ```bash
-  1. Download the file from GitHub or [Spigot](https://spigotmc.org)
+  1. Download the file from GitHub or Spigot
   2. Upload the downloaded file onto your servers "plugins" folder
   3. Run your server
 ```
