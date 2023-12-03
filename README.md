@@ -52,7 +52,7 @@ If you are experiencing this issue you are most likely using Version 1.0.0, If y
 
 ## Support
 
-Join our [Discord Server](https://discord.gg/FUawEyXH5K) if you require help with anything.
+Join our [Discord Server](https://discord.gg/yhns2dwSnc) if you require help with anything.
 
 
 ## Authors
